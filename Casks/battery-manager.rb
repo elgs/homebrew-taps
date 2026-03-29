@@ -1,6 +1,6 @@
 cask "battery-manager" do
-  version "0.0.10"
-  sha256 "125921006855a9b9ad722776c76a027b956800ffe5f7fa999db8e864341e0c3b"
+  version "0.0.11"
+  sha256 "24c06ce811d9bb8d46bbd364467f1cf35961fd37aaf0c093fef86b84028d8f99"
 
   url "https://github.com/elgs/battery-manager/releases/download/v#{version}/BatteryManager.dmg"
   name "BatteryManager"
