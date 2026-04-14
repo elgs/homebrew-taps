@@ -1,6 +1,6 @@
 cask "mac-tray-commands" do
-  version "1.0.9"
-  sha256 "23472f06cd4cfae12d79d45fd79ffa7674917613a346ad30b2f788f7c5b1613a"
+  version "1.0.10"
+  sha256 "51586a9badc9ba97554997efebefe9fe64c14ee863ed96da218744689cb4c391"
 
   url "https://github.com/elgs/mac-tray-commands/releases/download/v#{version}/MacTrayCommands.dmg"
   name "Mac Tray Commands"
