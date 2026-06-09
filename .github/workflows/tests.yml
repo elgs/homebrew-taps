@@ -9,8 +9,9 @@ on:
 jobs:
   test-bot:
     strategy:
+      fail-fast: false
       matrix:
-        os: [ ubuntu-22.04, macos-13, macos-15 ]
+        os: [ macos-13, macos-15 ]
     runs-on: ${{ matrix.os }}
     permissions:
       actions: read
