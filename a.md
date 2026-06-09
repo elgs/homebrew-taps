@@ -25,7 +25,7 @@ Create a file in your tap repo:
 
 Example formula:
 
-````ruby
+````text
 class Gosqlapi < Formula
   desc "SQL API server written in Go"
   homepage "https://github.com/<yourusername>/gosqlapi"
@@ -110,7 +110,7 @@ Create a file in your tap repo:
 
 Example formula:
 
-````ruby
+````text
 class Gosqlapi < Formula
   desc "SQL API server written in Go"
   homepage "https://github.com/<yourusername>/gosqlapi"
